@@ -28,7 +28,7 @@ or one of the Exceptions:
 
 #### GET /api/{game_id}/getBoardState
 Returns game board JSON by game id
-```json
+```
 "board": [
   "a":[0: "Rook", 1: "Pawn", ...],
   "b":[0: "Knight", 1: "Pawn", ...],

@@ -30,8 +30,8 @@ or one of the Exceptions:
 Returns game board JSON by game id
 ```json
 "board": [
-  "a":[0:Rook, 1:Pawn, ...],
-  "b":[0:Knight, 1:Pawn, ...],
+  "a":[0: "Rook", 1: "Pawn", ...],
+  "b":[0: "Knight", 1: "Pawn", ...],
 ...
 ]
 ```

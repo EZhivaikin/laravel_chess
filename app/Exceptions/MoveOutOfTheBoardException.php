@@ -4,7 +4,8 @@ namespace App\Exceptions;
 
 use Exception;
 
-class MoveOutOfBoardException extends Exception
+class MoveOutOfTheBoardException extends Exception
 {
     //
 }
+
